@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/id_oneRoom" android:title="One Room"></item>
+        <item android:id="@+id/id_twoRoom" android:title="Two Room"></item>
+        <item android:id="@+id/id_threeRoom" android:title="Three Room"></item>
+        <item android:id="@+id/id_fourRoom" android:title="Four Room"></item>
+    </group>
+</menu>
